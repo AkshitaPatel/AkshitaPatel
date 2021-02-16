@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-My name is Akshita Patel. I am studying Master in Applied Computer Science at Concordia University.
+My name is Akshita Patel.
 
 ## &#x1f4c8; GitHub Stats
 
